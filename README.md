@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <h1 align="center">Hi 👋, I'm Marc Ivan M. Cabrera</h1>
-<h3 align="center">I'm a fourth-year student at San Beda University Manila studying Information Technology. A student leader at San Beda University's Bedan Information Technology Society with four (4) years of experience. Three (3) years of experience as an ambassador in branding, organizational research, digital marketing, and social media management. A lifelong learner who works best alone or in groups. A web and software developer proficient in C++, C#, Python, and PHP.</h3>
+<h3 align="center">I'm an Information Technology graduate at San Beda University Manila studying Information Technology. A student leader at San Beda University's Bedan Information Technology Society with four (4) years of experience. Three (3) years of experience as an ambassador in branding, organizational research, digital marketing, and social media management. A lifelong learner who works best alone or in groups. A web and software developer proficient in C++, C#, Python, and PHP.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcivnmcbrr&label=Profile%20views&color=0e75b6&style=flat" alt="mrcivnmcbrr" /> </p>
 
